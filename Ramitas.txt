@@ -1,6 +1,12 @@
 Ramita Ancestral
 Verdecito
+    
+    Verdecito/Naranjita=Marroncito
 
   -Amarillito
-  
+ 
+    Amarillito/Rojito=Naranjita
+
 Rojito
+
+
