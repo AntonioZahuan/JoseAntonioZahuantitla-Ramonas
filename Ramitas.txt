@@ -1,4 +1,18 @@
 Ramita Ancestral
+<<<<<<< HEAD
 Verdecito 
  - Amariilo 
 Rojito
+=======
+Verdecito
+    
+    Verdecito/Naranjita=Marroncito
+
+  -Amarillito
+ 
+    Amarillito/Rojito=Naranjita
+
+Rojito
+
+
+>>>>>>> Verdecito
